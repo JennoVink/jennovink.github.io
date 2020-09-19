@@ -1,6 +1,6 @@
 # Site Settings
 title: Jenno Vink's blog
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 tagline: Bulma Clean Theme
 email: jenno-vink@hotmail.com
 description: >
