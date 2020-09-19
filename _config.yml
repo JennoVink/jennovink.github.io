@@ -6,7 +6,7 @@ tagline: Bulma Clean Theme
 email: jenno-vink@hotmail.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/jennovink.github.io"
+baseurl: "https://jennovink.github.io/"
 url: "https://jennovink.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
