@@ -6,10 +6,10 @@ tagline: Blog van Jenno Vink
 email: jenno-vink@hotmail.com
 description: >
   -under construction-
-baseurl: "/blog"
+baseurl: ""
 url: "https://jennovink.github.io"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /img/Jenno-Vink-logo.png
 # gh_sponsor: chrisrhymes
 hide_share_buttons: true
 paginate: 2
@@ -50,7 +50,7 @@ sass:
   style: compressed
   source_dir: _sass
 
-#google_analytics: UA-code-here
+google_analytics: UA-179649485-1
 
 defaults:
   -
