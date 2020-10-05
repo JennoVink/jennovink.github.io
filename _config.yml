@@ -6,13 +6,13 @@ tagline: Blog van Jenno Vink
 email: jenno-vink@hotmail.com
 description: >
   -under construction-
-baseurl: "/"
+baseurl: "/blog"
 url: "https://jennovink.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
-#hide_share_buttons: true
-paginate: 5
+# gh_sponsor: chrisrhymes
+hide_share_buttons: true
+paginate: 2
 paginate_path: "/blog/page:num"
 
 # Disqus Comments
@@ -20,7 +20,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: jvink
 
 
 plugins:
@@ -31,6 +31,8 @@ plugins:
   - kramdown
   - rouge
   - github-pages
+  - jekyll-remote-theme
+
 
 exclude: 
   - Gemfile
@@ -62,9 +64,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Jenno Vink"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: https://vitas.nl/wp-content/uploads/2019/02/Jenno-Vink.png
       show_sidebar: true
 
 markdown: kramdown
