@@ -6,7 +6,7 @@ tagline: Blog van Jenno Vink
 email: jenno-vink@hotmail.com
 description: >
   -under construction-
-baseurl: ""
+baseurl: "/"
 url: "https://jennovink.github.io"
 permalink: pretty
 favicon: /img/Jenno-Vink-logo.png
