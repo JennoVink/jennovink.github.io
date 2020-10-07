@@ -17,6 +17,8 @@ I created Bulma Clean Theme as a theme for my own website and decided to open so
 
 As a hobby I started exploring to create digital music which I listen every now and then. Besides that, I used to play piano when I was younger. Thus, I bought a simple midi pad (AKAI LPD 8, see picture below).
 
+![AKAI LPD8 picture](/img/akai.jpg "AKAI LPD8 used in this project")
+
 Each of these buttons and knobs can be configured in Ableton (the program I use for creating music digitally). Every button can contain a sound which reminded me of the Dutch television program “Zondag met Lubach” in which the host also uses a MIDI pad (a slightly bigger version with more buttons).
 
 Ableton is a very extensive program with a lot of functionalities. If the MIDI pad is used as a soundboard, only a small fraction of the functionalities are used.

@@ -4,7 +4,7 @@ title: "My personal favourite ReSharper hotkeys."
 date: 2020-08-26 10:50:07
 categories: development
 description: "I love using ReSharper! Here's how to step up your development game with the best hotkeys."
-image: 'https://resources.jetbrains.com/storage/products/resharper/img/meta/resharper_logo_300x300.png'
+image: '/img/resharper_logo.png'
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
