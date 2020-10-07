@@ -8,7 +8,7 @@ published: true
 tags: fody mvvm
 ---
 
-## PropertyChanged.FOdy
+## PropertyChanged.Fody
 
 When using the MVVM pattern in C# I think it’s very useful to use [PropertyChanged.Fody](https://github.com/Fody/PropertyChanged){:target="_blank"}. It injects code at compile time and as a result, the code becomes cleaner and better readable.
 

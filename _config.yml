@@ -5,8 +5,8 @@ remote_theme: chrisrhymes/bulma-clean-theme
 tagline: Blog van Jenno Vink
 email: jenno-vink@hotmail.com
 description: >
-  -under construction-
-baseurl: "/"
+  Personal blog about things I find interesting.
+baseurl: ""
 url: "https://jennovink.github.io"
 permalink: pretty
 favicon: /img/Jenno-Vink-logo.png

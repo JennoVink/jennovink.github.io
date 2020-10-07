@@ -8,4 +8,4 @@ layout: page
 
 Technology, .NET, personal projects and things that keep me busy.
 
-Checkout my [blog](/blog)!
+Checkout my [blog](/blog), or read something about [me](/about).

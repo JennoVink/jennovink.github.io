@@ -1,5 +1,5 @@
 ---
-title: This page is me
+title: This page is about me
 subtitle: Later, some content will be added.
 layout: page
 show_sidebar: true
