@@ -11,8 +11,6 @@ tags: bulma-clean-theme jekyll docs
 canonical_url: https://www.csrhymes.com/2020/05/08/creating-a-docs-site-with-bulma-clean-theme.html
 ---
 
-I created Bulma Clean Theme as a theme for my own website and decided to open source it so others could use it as well. One of the key things I wanted to do was to create a theme that worked with GitHub Pages, which also means that you can also use it as a docs site for your project. 
-
 ## The story behind this project
 
 As a hobby I started exploring to create digital music which I listen every now and then. Besides that, I used to play piano when I was younger. Thus, I bought a simple midi pad (AKAI LPD 8, see picture below).
@@ -29,3 +27,4 @@ Bottom line: it was fun to create such application in a short period of time. Be
 
 Here’s a quick demo:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nENmCYmhjuY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
