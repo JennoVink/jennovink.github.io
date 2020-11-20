@@ -6,6 +6,7 @@ categories: development
 description: "I love using ReSharper! Here's how to step up your development game with the best hotkeys."
 image: '/img/resharper_logo.png'
 published: true
+Tags: .NET VisualStudio ReSharper
 ---
 
 Since my study (starting 2014) I used to work with a visual studio plugin called [ReSharper](https://www.jetbrains.com/resharper/). For me, Resharper is an excellent tool to **level up my productivity**. It provides an intuitive interface for refactoring code. In this post I would like to **share my favourite shortcuts & resharper functionalities**. This list is not in any order of preference.

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Gary Vaynerchuk doesn't exists yet... Until now."
-date:   2020-11-20 17:00:07
-description: Gary Vee bot in google assistant: a proof of concept.
-image: /img/gary-vee-search.jpg
+title:  "The GaryVee Bot doesn't exist yet... Until now."
+date:   2020-11-19 17:00:07
+description: "Gary Vee bot in google assistant - a proof of concept."
+image: /img/gary-vee-bot.jpg
 published: true
-tags: hobby-project Flask Python google-assistant
+tags: HobbyProject Flask Python GoogleAssistant
 ---
 
 ## The story behind the Gary Vaynerchuk and integrating it with google assistant
@@ -15,7 +15,7 @@ A few weeks ago I saw this video of Gary Veynerchuck:
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6727570316899446784" height="665" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 I was a bit disappointed at the moment he said:
-> GaryVee Bot doesn't exists yet...
+> GaryVee Bot doesn't exist yet...
 
 In another (non published) hobby project, I created a google assistant skill which picks a random item from my todo list (weekmenu) and reads it to the used. Me and my girlfriends always like to plan all the evening meals on sunday for the whole week. Letting a smart home assistant decide what to eat, based on a list was quite fun to make.
 
