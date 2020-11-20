@@ -3,7 +3,7 @@ layout: post
 title:  "The Gary Vaynerchuk doesn't exists yet... Until now."
 date:   2020-11-20 17:00:07
 description: Gary Vee bot in google assistant: a proof of concept.
-image: '/img/gary-vee-search.jpg'
+image: /img/gary-vee-search.jpg
 published: true
 tags: hobby-project Flask Python google-assistant
 ---
