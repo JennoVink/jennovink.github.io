@@ -1,11 +1,11 @@
 ---
-title: Jenno Vink's blog
-subtitle: Yet another non-wordpress site ;)
+title: Jenno Vink's personal website
+subtitle: Yet another non-wordpress site (under construction)
 layout: page
 ---
 
 # Read everything about...
 
-Technology, .NET, personal projects and things that keep me busy.
+Technology, .NET, personal hobby projects and things I think worth sharing.
 
 Checkout my [blog](/blog), or read something about [me](/about).
