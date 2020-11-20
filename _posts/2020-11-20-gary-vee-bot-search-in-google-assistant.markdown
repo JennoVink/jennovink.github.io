@@ -12,7 +12,7 @@ tags: hobby-project Flask Python google-assistant
 
 A few weeks ago I saw this video of Gary Veynerchuck:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6727570316899446784?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6727570316899446784" height="665" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 I was a bit disappointed at the moment he said:
 > GaryVee Bot doesn't exists yet...
@@ -34,7 +34,10 @@ For this Proof-Of-Concept, I gained experience using:
 * fetching results from API calls using python
 
 My POC works by simply extracting everything an user said after 'ask gary vee'. So in case of the video, this was 'how to get success in life?'. This value is used to make a call to this endpoint:
-```https://search.garyvaynerchuk.com/api/search?page=1&search_value=how%20to%20get%20success%20in%20life```
+```
+https://search.garyvaynerchuk.com/api/search?page=1&search_value=how%20to%20get%20success%20in%20life
+```
+
 Then the API results are fetched, and formatted into json:
 
 ```python
