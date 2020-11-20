@@ -12,7 +12,7 @@ permalink: pretty
 favicon: /img/Jenno-Vink-logo.png
 # gh_sponsor: chrisrhymes
 hide_share_buttons: true
-paginate: 2
+paginate: 3
 paginate_path: "/blog/page:num"
 
 # Disqus Comments
