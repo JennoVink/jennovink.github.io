@@ -34,7 +34,7 @@ For this Proof-Of-Concept, I gained experience using:
 * fetching results from API calls using python
 
 My POC works by simply extracting everything an user said after 'ask gary vee'. So in case of the video, this was 'how to get success in life?'. This value is used to make a call to this endpoint:
-https://search.garyvaynerchuk.com/api/search?page=1&search_value=how%20to%20get%20success%20in%20life
+```https://search.garyvaynerchuk.com/api/search?page=1&search_value=how%20to%20get%20success%20in%20life```
 Then the API results are fetched, and formatted into json:
 
 ```python
