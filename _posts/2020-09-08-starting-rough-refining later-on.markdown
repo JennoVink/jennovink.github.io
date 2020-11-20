@@ -9,9 +9,6 @@ image: /img/big_data.png
 tags: BigData .NET Optimization
 ---
 
-## Starting rough, refining later on
-### The story behind 34+ million records.
-
 Today I got the assignment to 'enrich' data (in Dutch: "dataverrijking"). This means, reading, combining and transforming data into something useful the people of datapreperation can design on a piece of paper.
 
 The desired functionality included reading several large csv files, and based on parameters, reading the according csv (which can contain millions of records), and putting the data back into another database. I started rough and created an initial, naïve implementation to be refine later on. With this method, **it would take 68 hours** to complete the job. Way too long... That's why I kept optimizing my code. My optimalizations include prefetching data from csv & bulk inserting into the database while monitoring the memory to make sure there were no memory leaks. In the end, I reduced the execution time to **less than 7 minutes**.
