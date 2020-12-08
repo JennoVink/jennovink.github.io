@@ -8,7 +8,7 @@ published: true
 tags: HobbyProject Flask Python GoogleAssistant
 ---
 
-## The story behind the Gary Vaynerchuk and integrating it with google assistant
+## The story behind the Gary Vaynerchuk search engine and integrating it with google assistant
 
 A few weeks ago I saw this video of Gary Veynerchuck:
 
