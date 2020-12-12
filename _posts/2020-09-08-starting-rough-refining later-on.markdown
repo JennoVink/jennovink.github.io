@@ -5,7 +5,7 @@ date:   2020-08-09 20:00:07
 categories: development
 description: "The story behind the 34+ million records."
 published: true
-image: /img/big_data.png
+image: /img/big_data.webp
 tags: BigData .NET Optimization
 ---
 
