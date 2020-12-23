@@ -12,7 +12,7 @@ tags: HobbyProject Javascript
 
 I wanted to know what my historical monthly mobile cellphone data usage was. Unfortunately this feature wasn't included in the web app of my current telecomprovider... It was only possible to see the usage in small chunks (per day). The total amount per month wasn't showed.
 
-That's why... I created a Google Chrome Extension! It's very easy to use. Here's a quick demo:
+That's why... I created a Google Chrome Extension [see this GitHub repo](https://github.com/JennoVink/MobileDataTotalCalculator)! It's very easy to use. Here's a quick demo:
 
 ### Quick demo
 
