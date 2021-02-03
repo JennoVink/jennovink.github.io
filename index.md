@@ -1,6 +1,6 @@
 ---
 title: Jenno Vink's personal website
-subtitle: Yet another non-wordpress site (under construction)
+subtitle: Yet another non-wordpress site
 layout: page
 ---
 
