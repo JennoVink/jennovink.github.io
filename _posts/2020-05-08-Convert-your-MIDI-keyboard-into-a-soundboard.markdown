@@ -7,11 +7,12 @@ hero_image: https://img.youtube.com/vi/nENmCYmhjuY/hqdefault.jpg
 hero_height: is-large
 hero_darken: true
 image: https://img.youtube.com/vi/nENmCYmhjuY/hqdefault.jpg
-tags: bulma-clean-theme jekyll docs
-canonical_url: https://www.csrhymes.com/2020/05/08/creating-a-docs-site-with-bulma-clean-theme.html
+tags: hobby dotNet MVVM Software
 ---
 
 ## The story behind this project
+
+Checkout the [source code](https://github.com/JennoVink/MidiKeyboardSoundboard). Or.. [Download now (tested on x64, win 10)](https://github.com/JennoVink/MidiKeyboardSoundboard/files/4433919/Release.zip)!
 
 As a hobby I started exploring to create digital music which I listen every now and then. Besides that, I used to play piano when I was younger. Thus, I bought a simple midi pad (AKAI LPD 8, see picture below).
 
