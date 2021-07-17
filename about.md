@@ -6,7 +6,7 @@ show_sidebar: true
 ---
 # I'm... 😁
 
-After my pre-master I started working at [vitas](https://www.vitas.nl/young-talent-2/){:target="_blank"}. I wasn't done learning. Besides that, I think it's important to gain knowledge (during my career) and make use of compound knowledge. That's why I got these cerficates. Per april 2021, I'm offically part of [Lijnco]{https://www.jennovink.nl/2021/04/05/starting-a-new-chapter-at-Lijnco/}.
+After my pre-master I started working at [vitas](https://www.vitas.nl/young-talent-2/){:target="_blank"}. I wasn't done learning. Besides that, I think it's important to gain knowledge (during my career) and make use of compound knowledge. That's why I got these cerficates. Per april 2021, I'm offically part of [Lijnco](https://www.jennovink.nl/2021/04/05/starting-a-new-chapter-at-Lijnco/).
 
 
 ## Obtained certifications
