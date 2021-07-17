@@ -14,7 +14,7 @@ tags: hobby dotNet MVVM Software
 
 Checkout the [source code](https://github.com/JennoVink/MidiKeyboardResharperCodeNavigator). Or.. [Download now (tested on x64, win 10)](https://github.com/JennoVink/MidiKeyboardResharperCodeNavigator/files/4433919/Release.zip)!
 
-As a hobby I started exploring to create digital music which I listen every now and then. Besides that, I used to play piano when I was younger. Thus, I bought a simple midi pad (AKAI LPD 8, see picture below).
+As a hobby I started exploring to create digital music which I listen to, every now and then. Besides that, I used to play piano when I was younger. Thus, I bought a simple midi pad (AKAI LPD 8, see picture below).
 
 ![AKAI LPD8 picture](/img/akai.jpg "AKAI LPD8 used in this project")
 
