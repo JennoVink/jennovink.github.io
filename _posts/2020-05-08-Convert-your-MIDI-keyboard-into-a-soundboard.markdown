@@ -12,7 +12,7 @@ tags: hobby dotNet MVVM Software
 
 ## The story behind this project
 
-Checkout the [source code](https://github.com/JennoVink/MidiKeyboardSoundboard). Or.. [Download now (tested on x64, win 10)](https://github.com/JennoVink/MidiKeyboardSoundboard/files/4433919/Release.zip)!
+Checkout the [source code](https://github.com/JennoVink/MidiKeyboardResharperCodeNavigator). Or.. [Download now (tested on x64, win 10)](https://github.com/JennoVink/MidiKeyboardResharperCodeNavigator/files/4433919/Release.zip)!
 
 As a hobby I started exploring to create digital music which I listen every now and then. Besides that, I used to play piano when I was younger. Thus, I bought a simple midi pad (AKAI LPD 8, see picture below).
 
