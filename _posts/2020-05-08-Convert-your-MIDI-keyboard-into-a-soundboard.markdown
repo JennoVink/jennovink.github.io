@@ -4,7 +4,7 @@ title: Convert your MIDI keyboard/pad into a soundboard!
 description: A project I did in my sparetime to practice MVVM and working with MIDI.
 date: 2020-05-08 09:00:07
 hero_image: https://img.youtube.com/vi/nENmCYmhjuY/hqdefault.jpg
-hero_height: is-large
+hero_height: is-small
 hero_darken: true
 image: https://img.youtube.com/vi/nENmCYmhjuY/hqdefault.jpg
 tags: hobby dotNet MVVM Software
@@ -28,4 +28,4 @@ Bottom line: it was fun to create such application in a short period of time. Be
 
 Here’s a quick demo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nENmCYmhjuY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html video="nENmCYmhjuY" %}

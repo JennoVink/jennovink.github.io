@@ -2,6 +2,9 @@
 title: Jenno Vink's personal website
 subtitle: Yet another non-wordpress site
 layout: page
+hero_height: is-large
+hero_link: /blog/
+hero_link_text: Go to my blog
 ---
 
 # Read everything about...

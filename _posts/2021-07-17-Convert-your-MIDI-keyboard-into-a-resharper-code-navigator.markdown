@@ -14,7 +14,7 @@ tags: hobby dotNet MVVM Software
 
 Checkout the [source code](https://github.com/JennoVink/MidiKeyboardResharperCodeNavigator).
 
-In another blog post, I created a [midi keyboard soundboard](https://www.jennovink.nl/2020/05/08/Convert-your-MIDI-keyboard-into-a-soundboard/). When I'm navigating through a larger codebase, I thought it's neat to have buttons to navigate to bookmarks. That's why I decided to upgrade the existing soundboard project. The following midi pad is used (see picture below):
+In another blog post, I created a [midi keyboard soundboard](/2020/05/08/Convert-your-MIDI-keyboard-into-a-soundboard/). When I'm navigating through a larger codebase, I thought it's neat to have buttons to navigate to bookmarks. That's why I decided to upgrade the existing soundboard project. The following midi pad is used (see picture below):
 
 ![AKAI LPD8 picture](/img/akai.jpg "AKAI LPD8 used in this project")
 

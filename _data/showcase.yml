@@ -1,0 +1,34 @@
+intro: |-
+  Fork me on [github](https://github.com/JennoVink){:target="_blank"}.
+items:
+  - title: Midi pad to soundboard
+    subtitle: Simple project to turn a MIDI-pad into a soundboard
+    description: |-
+      See [my blogpost](/2020/05/08/Convert-your-MIDI-keyboard-into-a-soundboard/) for extra info.
+    features:
+      - Select a sound per slot
+      - Assign a slot to a phisical midi key
+      - Set the (windows) volume via a (customizable) knob
+      - Tested on an Akai-lpd8
+    features_styles: is-centered is-outlined
+    image: /img/akai.jpg	
+    image_ratio: is-5by2
+    link: https://github.com/JennoVink/MidiKeyboardSoundboard
+    link_text: View repository
+    tags: MVVMlight, .NET
+    github: JennoVink/MidiKeyboardSoundboard
+  - title: Midi pad to Resharper code navigator
+    subtitle: Simple project to turn a MIDI-pad into a resharper code navigator
+    description: |-
+      See [my blogpost](/2021/07/17/Convert-your-MIDI-keyboard-into-a-resharper-code-navigator/) for extra info.
+    features:
+      - Quick code navigation
+      - A physical touch to your code
+      - Tested on an Akai-lpd8
+    features_styles: is-centered is-outlined
+    image: /img/akai.jpg	
+    image_ratio: is-5by2
+    link: https://github.com/JennoVink/MidiKeyboardResharperCodeNavigator
+    link_text: View repository
+    tags: MVVMlight, .NET
+    github: JennoVink/MidiKeyboardResharperCodeNavigator

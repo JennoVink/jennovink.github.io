@@ -1,10 +1,9 @@
 ---
-title: Showcase
-subtitle: An example showcase page
-description: An example showcase page to help you easily display your work
+title: Showcase of open-source projects
+subtitle: Have a look around.
+description: An showcase page that shows some of my projecs.
 layout: page
-showcase: showcase_example
+showcase: showcase
 show_sidebar: false
 ---
 
-[View the showcase docs](/bulma-clean-theme/docs/showcases/)

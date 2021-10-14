@@ -26,9 +26,9 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 ### MCSA: Web Applications - Certified 2020 (11 December 2020)
 [![MCSA: Web Applications](https://images.youracclaim.com/size/250x250/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png "MCSA: Web Applications")](https://www.youracclaim.com/badges/b4652469-d821-4d50-9adc-b4a928e98a05){:target="_blank"}
 
+### Desgin patterns in C# (11 October 2021)
+[<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/paths/skill/design-patterns-in-c){:target="_blank"}
 
-```csharp
-public class Me {
-	// some comments here...
-}
-```
+### Refactoring in C# (13 October 2021)
+[<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://www.pluralsight.com/courses/refactoring-csharp-developers){:target="_blank"}
+

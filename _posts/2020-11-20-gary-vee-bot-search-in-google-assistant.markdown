@@ -23,7 +23,7 @@ Based on that I already had some experience creating simple google assistant ski
 
 ### Quick demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D8NguLdD6d4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html video="D8NguLdD6d4" %}
 
 ### Techniques used
 
