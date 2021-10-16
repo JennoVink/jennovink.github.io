@@ -21,3 +21,5 @@ Watch this gif and go to [google.com](https://www.google.com) and type ```Jenno`
 <iframe width="100%" height="300" src="//jsfiddle.net/rnhg2ysm/show/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 Note that in the PoC above, you have to press the button 'Run this fiddle'. In the example of the blogpost that wasn't needed (maybe by using embed.ly?).
+
+I still haven't found out a way to not show the 'run this fiddle' button. I tried plain html and js, but then you aren't logged it at google by default. Only the results are show. For this to work, you need to be logged in in google. Fortunately, this is a good thing, or else everyone could exploit this easily.
