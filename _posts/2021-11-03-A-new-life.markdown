@@ -1,0 +1,21 @@
+---
+layout: post
+title: "A new life"
+description: "My first daughter is born on 10-20-21 at 11:31 PM."
+date: 2021-10-13 20:00:00
+hero_image: /img/geboortekaartje_front.jpg
+hero_height: is-medium
+hero_darken: true
+image: /img/geboortekaartje_front.jpg
+published: true
+tags: PrivateLife
+---
+
+## Hip hip hooray! Welcome to our planet
+
+On the 20<sup>th</sup> of October, a new life came to our planet. Meet my daugther Joan Abbey Vink:
+
+![Birth card of my first daughter.](/img/geboortekaartje_front.jpg)
+![Birth card of my first daughter.](/img/geboortekaartje_back.jpg)
+
+The birth card is not made of paper, but from Oak wood because my dad is a woodworker.
