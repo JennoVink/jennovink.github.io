@@ -32,3 +32,6 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 ### Refactoring in C# (13 October 2021)
 [<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://www.pluralsight.com/courses/refactoring-csharp-developers){:target="_blank"}
 
+### Making Your C# Code More Object-oriented (17 January 2022)
+[<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/c-sharp-code-more-object-oriented){:target="_blank"}
+
