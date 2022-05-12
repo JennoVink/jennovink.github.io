@@ -35,3 +35,6 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 ### Making Your C# Code More Object-oriented (17 January 2022)
 [<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/c-sharp-code-more-object-oriented){:target="_blank"}
 
+### Applying Functional Principles in C# (8 May 2022)
+[<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents){:target="_blank"}
+
