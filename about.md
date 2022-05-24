@@ -38,3 +38,6 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 ### Applying Functional Principles in C# (8 May 2022)
 [<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents){:target="_blank"}
 
+### Making .NET Applications Faster (24 May 2022)
+[<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/making-dotnet-applications-faster/table-of-contents){:target="_blank"}
+
