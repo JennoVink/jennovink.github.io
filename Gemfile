@@ -9,8 +9,9 @@ group :jekyll_plugins do
     gem "jekyll-paginate"
     gem "jekyll-seo-tag"
     gem 'jekyll-redirect-from'
-    gem "bulma-clean-theme"
-	gem 'github-pages'
-	gem "jekyll-remote-theme"
-	gem 'eventmachine', '1.2.7', git: 'git@github.com:eventmachine/eventmachine', tag: 'v1.2.7'
+    gem 'github-pages'
+    gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+    #gem "bulma-clean-theme"
+end
 
+gem "webrick", "~> 1.7"
