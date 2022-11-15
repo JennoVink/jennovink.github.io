@@ -18,7 +18,7 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 [![Azure fundamentals badge](https://images.youracclaim.com/size/250x250/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming_in_C_23-01.png "Programming in c# badge")](https://www.youracclaim.com/badges/0fb2a7c7-e3a1-48d8-abf3-a3da53915240){:target="_blank"}
 
 ### AZ-900 - Azure Fundamentals (29 May 2020)
-[![Azure fundamentals badge](https://images.youracclaim.com/size/250x250/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png "Azure fundamentals badge")](https://www.youracclaim.com/badges/51da886a-86ed-4571-b4f0-8574bef0552b){:target="_blank"}
+[![Azure fundamentals badge](https://images.credly.com/size/250x250/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png "Azure fundamentals badge")](https://www.youracclaim.com/badges/51da886a-86ed-4571-b4f0-8574bef0552b){:target="_blank"}
 
 ### MS70-486 - Developing ASP.NET MVC Web Applications (11 December 2020)
 [![Developing ASP.NET MVC web applications badge](https://images.youracclaim.com/size/250x250/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png "Developing ASP.NET MVC web applications badge")](https://www.youracclaim.com/badges/c55cb29a-ad10-49bd-aed3-7b53d0fc29b7){:target="_blank"}
