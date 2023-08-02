@@ -41,6 +41,8 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 ### Making .NET Applications Faster (24 May 2022)
 [<img src="/img/pluralsight-badge.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/making-dotnet-applications-faster/table-of-contents){:target="_blank"}
 
-### Domain-Driven Design Fundamentals 15 November 2022)
+### Domain-Driven Design Fundamentals (15 November 2022)
 [<img src="/img/pluralsight-badge-green.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/fundamentals-domain-driven-design/table-of-contents){:target="_blank"}
 
+### Clean Architecture: Patterns, Practices, and Principles (2 August 2023)
+[<img src="/img/pluralsight-badge-green.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents){:target="_blank"}
