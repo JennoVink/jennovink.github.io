@@ -46,3 +46,6 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 
 ### Clean Architecture: Patterns, Practices, and Principles (2 August 2023)
 [<img src="/img/pluralsight-badge-green.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents){:target="_blank"}
+
+### SOLID Principles for C# Developers (9 August 2023)
+[<img src="/img/pluralsight-badge-green.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/csharp-solid-principles/table-of-contents){:target="_blank"}
