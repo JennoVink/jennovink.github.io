@@ -49,3 +49,6 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 
 ### SOLID Principles for C# Developers (9 August 2023)
 [<img src="/img/pluralsight-badge-green.svg" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/csharp-solid-principles/table-of-contents){:target="_blank"}
+
+### Foundations of Effective Project Management (18 August 2023)
+[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/business-skills-catch-all/beginner/enabled-light.3805c5.png?w=250&h=250" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/foundations-effective-project-management){:target="_blank"}
