@@ -53,6 +53,8 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 ### Foundations of Effective Project Management (18 August 2023)
 [<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/business-skills-catch-all/beginner/enabled-light.3805c5.png?w=250&h=250" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/foundations-effective-project-management){:target="_blank"}
 
-
 ### The Skills of Effective Project Leaders (7 September 2023)
 [<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/business-skills-catch-all/beginner/enabled-light.3805c5.png?w=250&h=250" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/effective-project-leaders-skills/table-of-contents){:target="_blank"}
+
+### Serving as a Project Leader (7 October 2023)
+[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/business-skills-catch-all/intermediate/enabled-dark.695388.png?w=250&h=250" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/serving-as-project-leader/table-of-contents){:target="_blank"}
