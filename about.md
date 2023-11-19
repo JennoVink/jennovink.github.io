@@ -58,3 +58,7 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 
 ### Serving as a Project Leader (7 October 2023)
 [<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/business-skills-catch-all/intermediate/enabled-dark.695388.png?w=250&h=250" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/serving-as-project-leader/table-of-contents){:target="_blank"}
+
+
+### Selecting a Project Methodology to Fit Your Organization's Needs (18 November 2023)
+[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/business-skills-catch-all/intermediate/enabled-dark.695388.png?w=250&h=250" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/project-methodology-fit-organizations-needs){:target="_blank"}
