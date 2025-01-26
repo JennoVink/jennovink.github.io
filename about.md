@@ -63,4 +63,4 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 [<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/business-skills-catch-all/intermediate/enabled-dark.695388.png?w=250&h=250" alt="Pluralsight badge" width="250"/>](https://app.pluralsight.com/library/courses/project-methodology-fit-organizations-needs){:target="_blank"}
 
 ### NEN training: 'ISO 27001: De norm verklaard' (1 November 2024)
-[Click here to show pdf](/pdf/ISO27001_DeNormVerklaard_BewijsVanDeelname.pdf){:target="_blank"}
+[Click here to show pdf](/pdf/ISO27001_DeNormVerklaard_BewijsVanDeelnameJennoVink.pdf){:target="_blank"}
