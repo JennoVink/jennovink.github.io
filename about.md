@@ -14,7 +14,7 @@ After my pre-master I started working at [vitas](https://www.vitas.nl/young-tale
 [<img src="https://static.scrum.org/web/badges/badge-psmi.svg" alt="psm1 badge" width="250"/>](https://www.scrum.org/certificates/440395){:target="_blank"}
 
 ### MS70-483 - Programming in C# (23 December 2019)
-[![Azure fundamentals badge](https://images.credly.com/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming_in_C_23-01.png "Programming in c# badge")](https://www.credly.com/badges/0fb2a7c7-e3a1-48d8-abf3-a3da53915240){:target="_blank"}{:width="200px"}
+[![Azure fundamentals badge](https://images.credly.com/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming_in_C_23-01.png "Programming in c# badge"){:width="200px"}](https://www.credly.com/badges/0fb2a7c7-e3a1-48d8-abf3-a3da53915240){:target="_blank"}
 
 ### AZ-900 - Azure Fundamentals (29 May 2020)
 [![Azure fundamentals badge](https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png "Azure fundamentals badge")](https://www.credly.com/badges/51da886a-86ed-4571-b4f0-8574bef0552b){:target="_blank"}
